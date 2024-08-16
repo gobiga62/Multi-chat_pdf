@@ -1,6 +1,5 @@
-streamlit
+streamlit 
 python-dotenv
-PyPDF2
-langchain
+PyPDF2 
+langchain 
 faiss-cpu
-huggingface-hub
